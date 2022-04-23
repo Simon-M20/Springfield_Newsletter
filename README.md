@@ -1,5 +1,10 @@
 # Springfield_Newsletter
 
-#RetosPlatziCSS.
+## RetosPlatziCSS.
 
-https://simon-m20.github.io/Springfield_Newsletter/
+- [Platzi](https://platzi.com/) [Springfield Newsletter Design](https://platzi.com/blog/periodico-simpsons-css/)
+
+## Built With
+
+- [Tailwind CSS](https://tailwindcss.com/)
+
